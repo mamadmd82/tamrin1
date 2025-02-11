@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca970081-8d66-4c43-9e7f-490a5e7bdbb1" name="Default Changelist" comment="" />
+    <list default="true" id="ca970081-8d66-4c43-9e7f-490a5e7bdbb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.php" beforeDir="false" afterPath="$PROJECT_DIR$/file1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file6.php" beforeDir="false" afterPath="$PROJECT_DIR$/file6.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1735982598568</updated>
       <workItem from="1735982599696" duration="1100000" />
+      <workItem from="1736099096569" duration="34000" />
+      <workItem from="1736282114590" duration="2214000" />
+      <workItem from="1738401411245" duration="2376000" />
+      <workItem from="1738781485195" duration="979000" />
+      <workItem from="1738827839976" duration="1405000" />
+      <workItem from="1738933806477" duration="17000" />
+      <workItem from="1739175255274" duration="1835000" />
+      <workItem from="1739214201689" duration="1258000" />
     </task>
     <servers />
   </component>
@@ -58,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

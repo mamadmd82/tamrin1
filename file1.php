@@ -5,4 +5,5 @@ php
 .
 mamad salam
 salam
-hello
+easa
+berari

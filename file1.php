@@ -6,3 +6,5 @@ js
 salam
 vue
 hello
+payam
+dadashi

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca970081-8d66-4c43-9e7f-490a5e7bdbb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file1.php" beforeDir="false" afterPath="$PROJECT_DIR$/file1.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file6.php" beforeDir="false" afterPath="$PROJECT_DIR$/file6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file9.html" beforeDir="false" afterPath="$PROJECT_DIR$/file9.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

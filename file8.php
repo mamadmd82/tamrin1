@@ -1,4 +1,0 @@
-mamad
-abas
-nazm
-nezafat

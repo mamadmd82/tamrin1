@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca970081-8d66-4c43-9e7f-490a5e7bdbb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/file1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file9.html" beforeDir="false" />
-    </list>
+    <list default="true" id="ca970081-8d66-4c43-9e7f-490a5e7bdbb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +9,14 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
